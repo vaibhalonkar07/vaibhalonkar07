@@ -3,6 +3,7 @@
 <h3 align="center">☕ Java Developer | Spring Boot | Learning DSA</h3>
 
 <p align="center">
+  
   <a href="https://www.linkedin.com/in/vaibhavlonkar19/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Java+Developer+%7C+Spring+Boot;TE+Computer+Engineering+Student;Learning+Data+Structures+%26+Algorithms;Exploring+Linux%2C+DevOps+%26+Cloud" alt="Typing SVG" />
   </a>
